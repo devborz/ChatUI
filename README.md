@@ -1,2 +1,2 @@
-# -ChatUI
+# ChatUI
 ChatUI built on SwiftUI
